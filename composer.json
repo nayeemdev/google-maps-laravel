@@ -1,0 +1,34 @@
+{
+  "name": "nayeemdev/google-maps-laravel",
+  "description": "Laravel Google Map package cloned from Nayeemdev/GoogleMaps You can use all google map features in laravel.",
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "gmap",
+    "map",
+    "google",
+    "googlemap",
+    "gmap"
+  ],
+  "authors": [
+    {
+      "name": "Md Nayeem Hossain",
+      "email": "nayeem9812@gmail.com",
+      "role": "Author"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Nayeemdev\\GoogleMaps\\": "src/Nayeemdev/GoogleMaps/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.5.x-dev"
+    }
+  },
+  "minimum-stability": "stable"
+}
